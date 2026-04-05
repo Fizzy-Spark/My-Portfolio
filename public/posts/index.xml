@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Home </title>
+    <link>https://fizzy-spark.github.io/portfolio/posts/</link>
+    <description>Recent content in Posts on Home </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© Athul</copyright>
+    <lastBuildDate>Sun, 05 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://fizzy-spark.github.io/portfolio/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First post on my personal website!</title>
+      <link>https://fizzy-spark.github.io/portfolio/posts/1/</link>
+      <pubDate>Sun, 05 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://fizzy-spark.github.io/portfolio/posts/1/</guid>
+      <description>&lt;h1&gt;So, it finally happened!&lt;/h1&gt;&#xA;&lt;p&gt;I thought that it would never happen, but here we are, i finally have a personal site i can&#xA;upload my works onto, it cannot be any better! I really hope anyone who would see that someday will find my projects fascinating :). Next thing i&#39;d want to do is most likely script in python to &#xA;automate creation of markdown files for posts.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

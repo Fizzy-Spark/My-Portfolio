@@ -1,0 +1,34 @@
+baseURL = "https://fizzy-spark.github.io/portfolio/"
+languageCode = "en-us"
+title = "Home "
+theme="archie"
+copyright = "© Athul"
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+[params]
+	mode="auto"
+	useCDN=false
+	mainSections = ["posts"]
+[markup]
+[markup.goldmark]
+[markup.goldmark.renderer]
+    unsafe = true
+
+#Main Menu Tags
+
+[[menu.main]]
+name = "Posts"
+url = "/posts"
+weight = 1
+
+[[menu.main]]
+name = "About Me"
+url = "/about/"
+weight = 2
+
+[[menu.main]]
+name = "Search"
+url = "/search/"
+weight = 3
+

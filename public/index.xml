@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home </title>
+    <link>https://fizzy-spark.github.io/portfolio/</link>
+    <description>Recent content on Home </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© Athul</copyright>
+    <lastBuildDate>Sun, 05 Apr 2026 14:00:00 +0300</lastBuildDate>
+    <atom:link href="https://fizzy-spark.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://fizzy-spark.github.io/portfolio/about/</link>
+      <pubDate>Sun, 05 Apr 2026 14:00:00 +0300</pubDate>
+      <guid>https://fizzy-spark.github.io/portfolio/about/</guid>
+      <description>&lt;div style=&#34;display: flex; align-items: center; gap: 20px; flex-wrap: wrap; margin-top: 20px;&#34;&gt;&#xA;&lt;div style=&#34;&#xA;    width: 200px; &#xA;    height: 200px; &#xA;    border-radius: 50%; &#xA;    border: 3px solid #000000; &#xA;    margin: 1 auto;&#xA;    background-image: url(&#39;PFP.png&#39;);&#xA;    background-size: 250%; /* This is your ZOOM level */&#xA;    background-position: 52% 0%; /* This locks it to the TOP */&#xA;    background-repeat: no-repeat;&#xA;&#34;&gt;&#xA;&lt;/div&gt;&#xA;&lt;div style=&#34;flex: 1; min-width: 250px;&#34;&gt;&#xA;    &lt;h2 style=&#34;margin-top: 0;&#34;&gt;Fizzy Spark&lt;/h2&gt;&#xA;    &lt;p&gt;Hi! You can call me &lt;strong&gt;Vladyslav&lt;/strong&gt;. I am a big tech enthusiast, rookie coder who&#39;s also passionate about plants. Pansexual and a furry, feel free to DM me in discord anytime! :3&#xA;    &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>First post on my personal website!</title>
+      <link>https://fizzy-spark.github.io/portfolio/posts/1/</link>
+      <pubDate>Sun, 05 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://fizzy-spark.github.io/portfolio/posts/1/</guid>
+      <description>&lt;h1&gt;So, it finally happened!&lt;/h1&gt;&#xA;&lt;p&gt;I thought that it would never happen, but here we are, i finally have a personal site i can&#xA;upload my works onto, it cannot be any better! I really hope anyone who would see that someday will find my projects fascinating :). Next thing i&#39;d want to do is most likely script in python to &#xA;automate creation of markdown files for posts.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://fizzy-spark.github.io/portfolio/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fizzy-spark.github.io/portfolio/search/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
