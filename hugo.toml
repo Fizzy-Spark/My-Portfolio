@@ -15,6 +15,9 @@ pygmentscodefencesguesssyntax = true
 [markup.goldmark.renderer]
     unsafe = true
 
+canonifyURLs = true
+relativeURLs = true
+
 #Main Menu Tags
 
 [[menu.main]]
