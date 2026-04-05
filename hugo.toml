@@ -1,6 +1,5 @@
 baseURL = "https://fizzy-spark.github.io/My-Portfolio/"
 languageCode = "en-us"
-title = "Home "
 theme="archie"
 copyright = "© Athul"
 pygmentsstyle = "monokai"
@@ -21,17 +20,22 @@ relativeURLs = true
 #Main Menu Tags
 
 [[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
 name = "Posts"
 url = "/posts"
-weight = 1
+weight = 2
 
 [[menu.main]]
 name = "About Me"
 url = "/about/"
-weight = 2
+weight = 3
 
 [[menu.main]]
 name = "Search"
 url = "/search/"
-weight = 3
+weight = 4
 
