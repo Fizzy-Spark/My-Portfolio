@@ -12,7 +12,7 @@ date: 2026-04-05T14:00:00+03:00
     border-radius: 50%; 
     border: 3px solid #000000; 
     margin: 1 auto;
-    background-image: url('PFP.png');
+    background-image: url('./PFP.png');
     background-size: 250%; /* This is your ZOOM level */
     background-position: 52% 0%; /* This locks it to the TOP */
     background-repeat: no-repeat;
