@@ -2,29 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/My-Portfolio/</loc>
+    <loc>https://fizzy-spark.github.io/My-Portfolio/</loc>
     <lastmod>2026-04-05T14:00:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/My-Portfolio/about/</loc>
+    <loc>https://fizzy-spark.github.io/My-Portfolio/about/</loc>
     <lastmod>2026-04-05T14:00:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/My-Portfolio/pages/</loc>
+    <loc>https://fizzy-spark.github.io/My-Portfolio/pages/</loc>
     <lastmod>2026-04-05T14:00:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/My-Portfolio/tags/first/</loc>
+    <loc>https://fizzy-spark.github.io/My-Portfolio/tags/first/</loc>
     <lastmod>2026-04-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/My-Portfolio/posts/1/</loc>
+    <loc>https://fizzy-spark.github.io/My-Portfolio/posts/1/</loc>
     <lastmod>2026-04-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/My-Portfolio/posts/</loc>
+    <loc>https://fizzy-spark.github.io/My-Portfolio/posts/</loc>
     <lastmod>2026-04-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/My-Portfolio/tags/</loc>
+    <loc>https://fizzy-spark.github.io/My-Portfolio/tags/</loc>
     <lastmod>2026-04-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/My-Portfolio/search/</loc>
+    <loc>https://fizzy-spark.github.io/My-Portfolio/search/</loc>
   </url><url>
-    <loc>http://localhost:1313/My-Portfolio/categories/</loc>
+    <loc>https://fizzy-spark.github.io/My-Portfolio/categories/</loc>
   </url>
 </urlset>
